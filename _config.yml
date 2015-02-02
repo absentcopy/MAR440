@@ -6,4 +6,4 @@ sidebar_image: /images/Untitled-Cover.jpg
 # Build settings
 markdown: kramdown
 highlighter: pygments
-baseurl: MAR440
+baseurl: /MAR440 # the subpath of your site, e.g. /blog/
