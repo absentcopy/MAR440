@@ -28,14 +28,8 @@ Over the next 14 weeks, We would like to have a proof of concept running with re
 9. Implement user login.
 10. Make this list better
 
--Things Needed
- 1. Android OS
- 2. Android Studio
- 3. Java
- 4. Computer
- 5. Internet Access
-
 -Things To Design
+
 1. Android App UI
  Java - Symbol Drawing
  - Symbol Upload
