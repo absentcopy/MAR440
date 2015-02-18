@@ -1,0 +1,41 @@
+.ab_heading{
+	font-size: 5em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	color: #ce2323;
+	padding-top: 50px;
+	padding-left: 110px;
+	padding-bottom: 15px;
+}
+
+.bio_container{
+	padding-top: 150px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.jay_info{
+	padding-top: 10px;
+	font-style: italic;
+	font-weight: 600;
+	color: #000000;
+}
+
+.bio_pic{
+	float: left;
+	padding-right: 25px;
+	width:200px; /* you can use % */
+    height: auto;
+}
+
+h3{
+	padding-top: 20px;
+	font-size: 3em;s
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	color: #ce2323;
+}
+
+.link{
+	font-size: 3em;
+}

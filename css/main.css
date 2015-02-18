@@ -6,6 +6,28 @@
   box-sizing: border-box;
 }
 
+
+.nav {
+  padding-top: 20px;
+
+
+}
+
+.nav a {
+  margin-left: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav a:hover {
+  margin-left: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: rgba(255,255,255,.7);
+}
+
 html,
 body {
   height: 100%;
@@ -177,28 +199,32 @@ header .home_button {
   width: 21px;
   height: 18px;
   border-radius: 4px;
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0);
   line-height: 40px;
   font-size: 14px;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0);
   text-decoration: none;
   text-align: center;
-  background-image: url(../images/icon_home.png);
+  background-image: url(../images/house-icon.svg);
   background-position: center;
   background-repeat: no-repeat;
+  background-size: 100%;
   padding: 20px;
   transition: background 300ms linear;
   -webkit-transition: background 300ms linear;
 }
 
 header .home_button:hover {
-  background: #fff;
-  background-image: url(../images/icon_home_hover.png);
-  background-position: center;
+  /*background: #fff;*/
+  background-image: url(../images/house-icon.svg);
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+ /* background-position: center;
   background-repeat: no-repeat;
   color: #ce2323;
   transition: background 300ms linear;
-  -webkit-transition: background 300ms linear;
+  -webkit-transition: background 300ms linear;*/
 }
 
 header ul.meta {
@@ -345,4 +371,3 @@ ul.posts .meta {
 ul.posts p {
   margin-bottom: 36px;
 }
-

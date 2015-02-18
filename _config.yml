@@ -1,9 +1,9 @@
 # Site settings
 title: 'MAR 440 UNSPOKEN' # Your Title
-tagline: 'Untitled Interactive Group Project' # A brief tagline for your site
-sidebar_image: /images/Untitled-Cover.jpg
+tagline: 'Untitle Interactive Group Project' # A brief tagline for your site
+sidebar_image: /images/main-page.jpg
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 baseurl: /MAR440 # the subpath of your site, e.g. /blog/

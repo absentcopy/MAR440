@@ -3,7 +3,7 @@ layout: post
 title: "AR Phone Application"
 date: 2015-02-03 09:11:00
 categories: Blog
-featured_image: /images/162Hweb.jpg
+featured_image: /images/main-page.jpg
 ---
 
 
