@@ -8,6 +8,6 @@ featured_image: /images/main-page.jpg
 
 Quick web design for information about gimplse.
 
-![web design](/images/glimpse_web_design.jpg)
+![web design](./images/glimpse_web_design.jpg)
 
-![test](/images/head-shot.jpg)
+![test](./images/head-shot.jpg)
