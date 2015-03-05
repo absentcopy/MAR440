@@ -9,5 +9,3 @@ featured_image: /images/main-page.jpg
 Quick web design for information about gimplse.
 
 ![web design](/MAR440/images/glimpse_web_design.jpg)
-
-![test](/MAR440/images/head-shot.jpg)
