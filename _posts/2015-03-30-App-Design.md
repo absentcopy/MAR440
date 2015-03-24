@@ -10,13 +10,13 @@ Concept Design For Mobile Experience.
 
 Jay's Design
 
-![App Design](./images/Glimps_1.png)
-![App Design](./images/Glimps_2.png)
-![App Design](./images/Round Glimpse_2.png)
-![App Design](./images/Round Glimpse_3.png)
+![App Design](/MAR440/images/Glimps_1.png)
+![App Design](/MAR440/images/Glimps_2.png)
+![App Design](/MAR440/images/Round Glimpse_2.png)
+![App Design](/MAR440/images/Round Glimpse_3.png)
 
 Josh's Design
 
-![App Design](./images/glimpse_log_in.jpg)
-![App Design](./images/glimpse_vision.jpg)
-![App Design](./images/glimpse_vision_lock.jpg)
+![App Design](/MAR440/images/glimpse_log_in.jpg)
+![App Design](/MAR440/images/glimpse_vision.jpg)
+![App Design](/MAR440/images/glimpse_vision_lock.jpg)
