@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "App Design"
-date: 2015-03-30 20:11:00
+date: 2015-03-15 20:11:00
 categories: Blog
 featured_image: /images/glimpse_web_design.jpg
 ---
